@@ -59,6 +59,4 @@ This Power BI dashboard provides an in-depth analysis of pizza sales data. It vi
 * pizza_sales_powerbi.pbix: The Power BI dashboard file.
 * README.md: This file, providing an overview and instructions.: The Power BI dashboard file.
 * pizza_sales_data.csv: The raw sales data used to create the dashboard.
-* 
-## Installation
-* To view the dashboard, you'll need Power BI Desktop. Download and install it here.  
+  
